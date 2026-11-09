@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/SEU_ID_DO_DISCORD"><img src="https://img.shields.io/badge/Discord-SEU_USUARIO-0b0918?style=for-the-badge&logo=discord&logoColor=c9b8ff&labelColor=1a1530&color=0b0918" alt="Discord" /></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/E--mail-fale_comigo-0b0918?style=for-the-badge&logo=gmail&logoColor=f5c451&labelColor=1a1530&color=0b0918" alt="E-mail" /></a>
+  <img src="https://img.shields.io/badge/Discord-igoordzn-0b0918?style=for-the-badge&logo=discord&logoColor=c9b8ff&labelColor=1a1530&color=0b0918" alt="Discord: igoordzn" title="Discord: igoordzn" />
+  <a href="mailto:igoor.coder@gmail.com"><img src="https://img.shields.io/badge/E--mail-igoor.coder%40gmail.com-0b0918?style=for-the-badge&logo=gmail&logoColor=f5c451&labelColor=1a1530&color=0b0918" alt="E-mail: igoor.coder@gmail.com" /></a>
 </p>
 
 <p align="center">
