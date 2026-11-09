@@ -1,7 +1,7 @@
 <!-- Perfil do Igor — visual do Cosmo (roxo escuro, lilás e dourado). Os SVGs ficam em ./perfil/ -->
 
 <p align="center">
-  <img src="./perfil/cabecalho.svg" width="100%" alt="Olá, eu sou o Igor — desenvolvedor em formação, ADS na PUCPR, criando o Cosmo" />
+  <img src="./perfil/cabecalho.svg" width="100%" alt="Olá, eu sou o Igor — desenvolvedor em formação, ADS na PUCPR" />
 </p>
 
 <p align="center">
