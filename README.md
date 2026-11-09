@@ -15,11 +15,5 @@
 </p>
 
 <p align="center">
-  <img src="./perfil/aprendendo.svg" width="100%" alt="Aprendendo agora: HTML, CSS e JavaScript. Ferramentas: Photoshop, Cinema 4D, Redshift, Obsidian e Claude" />
+  <img src="./perfil/aprendendo.svg" width="100%" alt="Aprendendo agora: HTML, CSS e JavaScript. Ferramentas: Visual Studio Code, PyCharm, MySQL Workbench, Photoshop, Cinema 4D, Obsidian e Claude" />
 </p>
-
-<p align="center">
-  <img src="./perfil/destaque.svg" width="100%" alt="Projeto em destaque: Cosmo, meu assistente pessoal com voz" />
-</p>
-
-<p align="center"><sub>✦ feito no visual do Cosmo ✦</sub></p>
