@@ -1,0 +1,32 @@
+name: Meus números
+
+on:
+  schedule:
+    - cron: '17 9 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/**', '.github/workflows/numeros.yml', 'perfil/fontes.json']
+
+permissions:
+  contents: write
+
+jobs:
+  numeros:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Desenhar o cartão
+        run: node scripts/numeros.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USUARIO: ${{ github.repository_owner }}
+      - name: Salvar se mudou
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add perfil/numeros.svg
+          git diff --cached --quiet || (git commit -m "Atualiza meus números" && git push)
