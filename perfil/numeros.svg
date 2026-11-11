@@ -10,7 +10,7 @@
 </style>
 <rect x="0.5" y="0.5" width="399" height="169" rx="16" fill="#0b0918" stroke="#2a2440"/>
 <text x="24" y="30" class="tb" font-size="13" fill="#a097c8">Meus números</text>
-<text x="376" y="30" class="tx" font-size="10" fill="#8c83b4" text-anchor="end">atualizado em 10/11/2026</text>
+<text x="376" y="30" class="tx" font-size="10" fill="#8c83b4" text-anchor="end">atualizado em 11/11/2026</text>
 <text x="24" y="66" class="ti" font-size="20" fill="#f5c451">4</text><text x="24" y="82" class="tx" font-size="11" fill="#a097c8">Contribuições no ano</text><text x="204" y="66" class="ti" font-size="20" fill="#e9e4ff">1</text><text x="204" y="82" class="tx" font-size="11" fill="#a097c8">Repositórios</text><text x="24" y="108" class="ti" font-size="20" fill="#e9e4ff">0</text><text x="24" y="124" class="tx" font-size="11" fill="#a097c8">Estrelas</text><text x="204" y="108" class="ti" font-size="20" fill="#e9e4ff">1</text><text x="204" y="124" class="tx" font-size="11" fill="#a097c8">Seguidores</text>
 <clipPath id="b"><rect x="24" y="138" width="352" height="6" rx="3"/></clipPath><rect x="24" y="138" width="352" height="6" rx="3" fill="#221b3d"/><g clip-path="url(#b)"><rect x="24.0" y="138" width="352.0" height="6" fill="#c9b8ff"/></g><circle cx="27" cy="158" r="3" fill="#c9b8ff"/><text x="34" y="161.5" class="tx" font-size="10" fill="#8c83b4">JavaScript 100%</text>
 </svg>
